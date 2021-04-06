@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hectors Dolphin </title>
+</head>
+
+<body>
+
+    <div class="header">
+        <h1>Hectors Dolphin</h1>
+    </div>
+   
+    <section class="navMenu">
+    <ul>
+  <li><a href="main%20page%20.html">About Hectors Dolphins</a></li>
+  <li><a href="C:/users/zirco/OneDrive/Documents/school subjects/digital tech/ncea site/code/page 2.html">Threats to Hectors Dolphins</a></li>
+  <li><a href="C:/users/zirco/OneDrive/Documents/school subjects/digital tech/ncea site/code/page 3.html">Habitat and numbers</a></li>
+  </ul>
+    </section>
+        
+        
+        
+
+
+
+    <section class="pageContent">
+        <p>Hector’s dolphins are found around the coast of the South Island but distribution is patchy.
+
+Populations are concentrated between Haast and Farewell Spit in the west, around Banks Peninsula in the east, and Te Waewae Bay and Porpoise Bay/Te Whanaga Aihe in the south.</p>
+
+
+    </section>
+
+    <section class="pageContent">
+        <p>2016: Results of 2015 seasonal aerial surveys undertaken to update Hector’s dolphin abundance and distribution estimates along the west coast of the South Island. Together with similar surveys and analyses of the east coast in 2013 and south coast in 2010, the estimated South Island population of Hector’s dolphin is now 14,849 (CV: 11% 95% CI 11 923-18 492), double the previous estimate from surveys conducted in the late 1990s – early 2000s. </p>
+    </section>
+
+    <section class="image">
+        <img src="C:/Users/zirco/Downloads/800px-Hector's_dolphin_range_map_v2.jpg" width=" 560px">
+    </section>
+
+
+</body>
+
+</html>
+<link rel="stylesheet" href="C:/users/zirco/OneDrive/Documents/school subjects/digital tech/ncea site/code/css-1.css">
+<script src=""></script>
