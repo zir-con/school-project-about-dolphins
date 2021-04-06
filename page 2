@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hectors Dolphin </title>
+</head>
+
+<body>
+
+    <div class="header">
+        <h1>Hectors Dolphin</h1>
+    </div>
+   
+    <section class="navMenu">
+    <ul>
+  <li><a href="main%20page%20.html">About Hectors Dolphins</a></li>
+  <li><a href="C:/users/zirco/OneDrive/Documents/school subjects/digital tech/ncea site/code/page 2.html">Threats to Hectors Dolphins</a></li>
+  <li><a href="C:/users/zirco/OneDrive/Documents/school subjects/digital tech/ncea site/code/page 3.html">Habitat and numbers</a></li>
+  </ul>
+    </section>
+        
+        
+        
+
+
+
+    <section class="pageContent">
+        <p>Like other dolphins, Hector’s use echolocation to find their food. They send out high frequency ‘clicks’ that bounce off surrounding objects and fish, giving the dolphins a detailed picture of their surroundings. This sonar is not used all the time, which may be one of the reasons why the dolphins get caught in nets.
+</p>
+
+
+    </section>
+
+    <section class="pageContent">
+        <p>Most females only have four or five calves in a lifetime. Calving usually occurs between November and mid-February, and calves stay with their mothers for up to two years.</p>
+    </section>
+
+    <section class="image">
+        <img src="C:/Users/zirco/Downloads/Hectors_Dolphin_7.16.2012_Threats_i_55143.jpg" width="560px">
+    </section>
+
+
+</body>
+
+</html>
+<link rel="stylesheet" href="C:/users/zirco/OneDrive/Documents/school subjects/digital tech/ncea site/code/css-1.css">
+<script src=""></script>
